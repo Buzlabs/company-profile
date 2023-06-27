@@ -17,6 +17,10 @@ module.exports = {
           "0 45px 65px rgba(0, 0, 0, 0.15)",
         ],
       },
+      boxShadow: {
+        "2xl": "0px 8px 0px rgba(0, 0, 0)",
+        "3xl": "10px 8px 0px rgba(0, 0, 0)",
+      },
       backgroundColor: {
         "custom-blue": "#2062C5",
         "custom-yellow": "#F7E485",
