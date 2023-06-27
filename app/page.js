@@ -2,12 +2,12 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import { Navbar } from "@/components";
-import frame1 from "@/public/frame1.png";
-import frame2 from "@/public/frame2.png";
-import frame3 from "@/public/frame3.png";
-import frame4 from "@/public/frame4.png";
-import frame5 from "@/public/frame5.png";
-import frame6 from "@/public/frame6.png";
+import frame1 from "/public/frame1.png";
+import frame2 from "/public/frame2.png";
+import frame3 from "/public/frame3.png";
+import frame4 from "/public/frame4.png";
+import frame5 from "/public/frame5.png";
+import frame6 from "/public/frame6.png";
 import { useState } from "react";
 
 export default function Home() {
